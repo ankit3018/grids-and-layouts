@@ -1,0 +1,72 @@
+.body{
+    margin: 30px  70px;
+}
+.parent-div{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 40PX;
+}
+.child-div{
+    box-shadow: 20px  10px 30px  rgba(250, 22, 22, 0.4);
+    margin-left: 5%;
+}
+.ipod{
+    border-radius: 60%;
+}
+.i1{
+    font-size: 20;
+}
+.child-div2{
+    box-shadow: 20px  10px 30px  rgba(250, 22, 22, 0.4);
+    margin-left: 5%;
+}
+.ipod2{
+    border-radius: 55%;
+}
+.i2{
+    font-size: 20;
+}
+.child-div3{
+    background-image: url(../backgroundimage.jpg);
+    background-size: cover;
+    margin-top: 20px;
+    box-shadow: 20px  10px 30px  rgba(250, 22, 22, 0.4);
+    margin-left: 5%;
+}
+.ipod3{
+    border-radius: 55%;
+    margin-bottom:30px ;
+}
+.i3{
+    margin-top: 15%;
+    font-size: 20;
+}
+.child-div4{
+    background-image: url(../backgroundimage.jpg);
+    background-size:cover ;
+    box-shadow: 20px  10px 30px  rgba(250, 22, 22, 0.4);
+    margin-left: 5%;
+}
+.ipod4{
+    border-radius: 55%;
+    margin-bottom:30px ;
+}
+.i4{
+    font-size: 20;
+}
+.child-div5{
+    box-shadow: 20px  10px 30px  rgba(250, 22, 22, 0.4);
+    margin-left: 5%;
+}
+.i5{
+    font-size: 20;
+}
+.child-div6{
+    background-image:url(../image13.jpg) ;
+    background-size: cover;
+    box-shadow: 20px  10px 30px  rgba(250, 22, 22, 0.4);
+    margin-left: 5%;
+}
+.i6{
+    font-size: 20;
+}
